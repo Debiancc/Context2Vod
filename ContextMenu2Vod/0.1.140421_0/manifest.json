@@ -1,0 +1,9 @@
+{
+    "background": {
+        "page": "main.html"
+    },
+    "name": "Context2VOD",
+    "permissions": ["contextMenus","tabs"],
+    "version": "0.0.1",
+    "manifest_version": 2
+}
