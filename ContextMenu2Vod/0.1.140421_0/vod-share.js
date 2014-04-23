@@ -1,4 +1,5 @@
 (function() {
+    debugger;
     var b = {
         style_1: "XL_CLOUD_VOD_BUTTON_yunyulan_btn",
         style_2: "XL_CLOUD_VOD_BUTTON_duyan_btn",
@@ -96,5 +97,5 @@
     a.type = "text/javascript";
     a.src = "http://vod.xunlei.com/library/jquery-1.7.2.min.js";
     e(a, c);
-    document.body.appendChild(a)
+    document.body.appendChild(a);
 })();
