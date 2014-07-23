@@ -1,7 +1,9 @@
 (function() {
     debugger;
     var b = {
+        //云预览
         style_1: "XL_CLOUD_VOD_BUTTON_yunyulan_btn",
+        //督验？？
         style_2: "XL_CLOUD_VOD_BUTTON_duyan_btn",
         style_3: "XL_CLOUD_VOD_BUTTON_yunyulan_btn",
         style_4: "XL_CLOUD_VOD_BUTTON_duyan_btn"
