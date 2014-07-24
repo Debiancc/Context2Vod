@@ -98,6 +98,7 @@
     var a = document.createElement("script");
     a.type = "text/javascript";
     a.src = "http://vod.xunlei.com/library/jquery-1.7.2.min.js";
+    //a::jquery,::
     e(a, c);
     document.body.appendChild(a);
 })();
